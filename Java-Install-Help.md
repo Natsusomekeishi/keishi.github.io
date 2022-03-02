@@ -1,3 +1,5 @@
+> JDK及IntelliJ IDEA安装教学
+> 作者：Keishi
 > 该教学适用于Win10系统，更新日期：2022.3.2
 
 # ① 安装JDK
