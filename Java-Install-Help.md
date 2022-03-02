@@ -2,4 +2,5 @@
 
 # ① 安装JDK
 1.点击链接下载 [https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)
+
 2.安装该程序，安装路径随意，需记住准确的路径，默认C盘路径为
